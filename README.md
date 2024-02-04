@@ -1,1 +1,1 @@
-# roboshop-aws-paramaters
+# roboshop-aws-parameters
